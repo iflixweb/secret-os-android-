@@ -1,0 +1,5 @@
+ota-required-cache=0
+ota-type=BLOCK
+post-build=bq/Aquaris_X5_Plus/Aquaris_X5_Plus:7.1.1/NMF26F/1503927589:user/release-keys
+post-timestamp=1514286906
+pre-device=Aquaris_X5_Plus
